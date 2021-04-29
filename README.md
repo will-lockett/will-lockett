@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @will-lockett
-- 👀 I’m color
-- 🌱 I’m p%.js
+- 👀 I’m interested in color
+- 🌱 I’m learning p5.js
 - 💞️ I’m looking to collaborate on learning basics
 - 📫 How to reach me @rand0mwalk
 
