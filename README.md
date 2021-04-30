@@ -2,7 +2,7 @@
 - 👀 I’m interested in color
 - 🌱 I’m learning p5.js
 - 💞️ I’m looking to collaborate on learning basics
-- 📫 How to reach me @rand0mwalk
+- 📫 How to reach me 🐤 @rand0mwalk 
 
 <!---
 will-lockett/will-lockett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
